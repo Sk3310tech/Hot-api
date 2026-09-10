@@ -1,0 +1,570 @@
+[
+  {
+    "id": "1",
+    "name": "Star Sports 1 HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-1-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "e85897bf6e594d698b7c82646c8e0000": "d2dda31234ae40538843e871cd4dcc2a"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Star Sports 2 HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-2-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9": "74d35f4034b14854bd3ca83dd3aa2fb1"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Star Sports 2 Hindi HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-2-Hindi-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "effcadcbcc634296a6cf65e231f10000": "569c794c69ea496e9ad1887f557ea4dc"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Star Sports 2 Telugu HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-2-Telugu-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "4de245d511444b37a263c1d86ce70000": "b326780ffb3d4dcf8d30fbc0f3008a22"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Star Sports 1 Hindi HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-1-Hindi-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "b9f1cb8a1361457bbd8097f8c2590000": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Star Sports 1 Telugu HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6361/1782284846361-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-1-Telugu-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "4634b32328f242e3be51c3e06cde0000": "42e90ab215bf4a438b55851b5e0f50dc"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Star Sports 1 Tamil HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-1-Tamil-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "01cc63d414394296bb3e6cfaffee0000": "c1fba587fc8b4218ade5ace1e62e5aaf"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Star Sports 1 Kannada HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8138/1782284928138-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-1-Kannada-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "eb2f9710abf44bb1bcf51400ccc00000": "5f29f372823346e78934431f2a924065"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Star Sports 2 Tamil HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-2-Tamil-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "8cecd7ec1ee04eecb49ddbdc8c420000": "499ea72b59f14337a0acb057cd9dffc0"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Star Sports 2 Kannada HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4797/1783000974797-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-2-Kannada-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "ae315fa52d544372a525f8b947a50000": "8224183f754244c09664e825535aea4e"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Star Sports 3 HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-3-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "f718ac1c70414b7ead6ebffa05fa0000": "7b3a3cb3eda946de88aa44bbaaa179bb"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Star Sports Select 1 HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-Select-1-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "ae3b1efc6eee47fa90e0360b16ad0000": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Star Sports Select 2 HD Digital 4K",
+    "group": "Sports",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Sports-Select-2-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "9bced3f4d794419e99012ad6c1090000": "c4c7f22fc71445c28ea15cb3fdb1b3be"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Asianet HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Asianet-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Star Plus HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Plus-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "f7bbfeaf9f7f4cada833072e21ed0000": "d67f3522fb5a4b1d96daba62990a214e"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Star Jalsha HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Jalsha-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "2042ab988f5e4d95b03f9a01933c0000": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Star Maa HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Maa-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9": "97c95a3bbfd344d9a16d96bad4f42ad7"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Star Pravah HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Pravah-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "f7efc99766e643e687b1a228ae000000": "6d45b6ab1b2840be943c8a99e8a0a0e5"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Colors Bangla HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Bangla-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "4221bf5c8de94ff792982ee906a20000": "d53a4b3ab73f454c8b7a4e7b7454fd97"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Star Vijay HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Vijay-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9": "f6aeb5898e5c4d8bab629a9de8befa12"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Star Suvarna HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6396/1782290646396-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Suvarna-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "d33b34f86a214120a3850f04a11e0000": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Colors HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "f762f7bf6bf04c999f861cc3dafe0000": "25ec2364467f40b09fc1e9a7c1e72058"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Colors Kannada HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Kannada-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "2427721df70c4992b6e2cf7d2abf0000": "fb1d4dc6142344278550d82972ae003b"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Vijay Super HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Vijay-Super-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "08e4a1c2f55d4ed4878110a640920000": "23dc3107bf284a0dbd93b1dc9f142459"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Asianet Plus HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9207/1782286239207-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Asianet-Plus-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "bfe3e4a7670e416d85261d002c3a0000": "25955bb289a94ef5978ffa689eea066d"
+    }
+  },
+  {
+    "id": "26",
+    "name": "Colors Super HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6181/1782290986181-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Super-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "b3eb9d890c5c46f4b35595337c070000": "c57a0ca2eeda41eeb83a0246d116c1d6"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Star Utsav HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9181/1782291429181-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Utsav-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "c3560074f30e4257ba6dfb196ecb0000": "e044fed2851f4c268b59de3ef815d404"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Colors Marathi HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5106/1782291335106-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Marathi-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "7baa28b028744858b64a7077e3f00000": "8fcb860f70bc41b98e11cb7aee4f221b"
+    }
+  },
+  {
+    "id": "29",
+    "name": "Colors Rishtey HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Rishtey-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "99ccf903f1334204923c58cb8f190000": "d91830218d044a218f46938c421ec49b"
+    }
+  },
+  {
+    "id": "30",
+    "name": "Star Bharat HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Bharat-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "b271001a8d2448aab89c0f5fc84f0000": "a76a5ecde8764d8b9e40ce84888de269"
+    }
+  },
+  {
+    "id": "31",
+    "name": "Star Kiran HD Digital 4K",
+    "group": "Entertainment",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Kiran-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "b81f831b7b2f4173aa16f7ec64340000": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  },
+  {
+    "id": "32",
+    "name": "Asianet Movies HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Asianet-Movies-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "6622e3b665db40be8b755150ff6e0000": "4f4ab9edf51d4d39acff73b6dacb0b47"
+    }
+  },
+  {
+    "id": "33",
+    "name": "Colors Bangla Cinema HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Bangla-Cinema-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "01c12a7218654c38b7b38eaeb40e0000": "41eca141f03640a3b8fede56336cffcf"
+    }
+  },
+  {
+    "id": "34",
+    "name": "Jalsha Movies HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Jalsha-Movies-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "6e8ac9c358014b88ab8bae9c5fc70000": "7c8ae76486624b8eaa7e24b852e08abc"
+    }
+  },
+  {
+    "id": "35",
+    "name": "Maa Movies HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Maa-Movies-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "c559e8b9079a458eadd5e9c7dbb40000": "b6f184b3e9734b328773686363bfc465"
+    }
+  },
+  {
+    "id": "36",
+    "name": "Star Gold HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Star-Gold-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "2b582b2495204a1396cd8a714a2a0000": "43992282cef64e1ca7ac3f8f6e633324"
+    }
+  },
+  {
+    "id": "37",
+    "name": "Colors Cineplex HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Cineplex-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "215ced4a1eb7400488d290d09ebe0000": "71b4165c9e294b06b88c1e0f4e953cc2"
+    }
+  },
+  {
+    "id": "38",
+    "name": "Colors Kannada Cinema HD Digital 4K",
+    "group": "Movies",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Colors-Kannada-Cinema-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "f61b43f2b3a34a5daafacc05b7a30000": "7105b6b6de914502a54667970e2dc9c0"
+    }
+  },
+  {
+    "id": "39",
+    "name": "Nick Plus HD Digital 4K",
+    "group": "Kids",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8AFcmXsQttSXuBeYCL9fpa2rn5JrDwwoihMerrwF48V7Ar1EKNTZyGa6G2tMFMhEZNEReroTLe2gPSMQw6VZLSD65AyBqzD.top/hotstar/hot2233.php/Nick-Plus-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "8446d54c24f549ba9c9323836a060000": "db25bb59ba41470e82e4728f46781954"
+    }
+  },
+  {
+    "id": "40",
+    "name": "Nick HD Digital 4K",
+    "group": "Kids",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Nick-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "b0a76fc24ad548c5b92fb4eebfe90000": "f7c8dc574a6e4937ab2c15e8ae2acedb"
+    }
+  },
+  {
+    "id": "8AFcmXsQttSXuBeYCL9fpa2rn5JrDwwoihMerrwF48V7Ar1EKNTZyGa6G2tMFMhEZNEReroTLe2gPSMQw6VZLSD65AyBqzDf_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg",
+    "user_agent": "@shoebbro",
+    "type": "dash",
+    "mpd_url": "https://premiumplugx.top/hotstar/hot2233.php/Sonic-Digital.mpd",
+    "headers": {},
+    "expires_in": null,
+    "clearkey": {
+      "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9": "1H8M6uYCSAquJuZjTjy33ruXs23hZy72E9"
+    }
+  }
+]
